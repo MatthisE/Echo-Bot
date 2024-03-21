@@ -1,4 +1,4 @@
 
 # Echo-Bot
 
-a bot I made with Python
+a simple bot I made with Python
